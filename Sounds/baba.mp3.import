@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/baba.mp3-7e826f1c9a07e0e9b55f50df15587c71.mp3str"
+
+[deps]
+
+source_file="res://Sounds/baba.mp3"
+dest_files=[ "res://.import/baba.mp3-7e826f1c9a07e0e9b55f50df15587c71.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
